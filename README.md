@@ -87,10 +87,8 @@ Login	Panel CRUD	Secciones SPA
 
 🧠 Autor
 
-Pablo – Desarrollador Junior en formación
-📫 pablo@ejemplo.com
-🌐 GitHub
-📝 Licencia
+David Dev– Desarrollador Junior en formación
+
 
 Este proyecto es de uso libre para fines educativos.
 ¡Cualquier mejora es bienvenida!
